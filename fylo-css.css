@@ -8,6 +8,7 @@
 nav {
   display: flex;
   flex-direction: row-reverse;
+  padding-top: 3%;
 }
 ul {
   width: 100%;
